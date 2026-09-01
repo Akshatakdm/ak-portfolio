@@ -53,7 +53,7 @@ function Toolkit() {
       id="toolkit"
       className="border-t border-[#171a17]/10 dark:border-[#f5f3ee]/10"
     >
-      <div className="mx-auto max-w-6xl px-6 py-24 md:px-10 md:py-32">
+      <div className="mx-auto max-w-6xl px-6 py-24 md:px-10 md:py-24">
 
         {/* Section Heading */}
         <p className="mb-4 text-sm font-medium uppercase tracking-[0.18em] text-[#687267] dark:text-[#a8aea5]">
@@ -61,7 +61,7 @@ function Toolkit() {
         </p>
 
         {/* Toolkit Categories */}
-        <div className="space-y-12">
+        <div className="space-y-12 pt-8">
           {Object.entries(toolkit).map(([category, skills]) => (
             <div
               key={category}

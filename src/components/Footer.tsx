@@ -1,6 +1,6 @@
 function Footer() {
   return (
-    <footer className="border-t border-[#171a17]/10">
+    <footer className="border-t border-[#171a17]/10 dark:border-[#f5f3ee]/10">
       <div className="mx-auto max-w-6xl px-6 py-16 md:px-10 md:py-20">
         <div className="flex flex-col justify-between gap-12 md:flex-row">
           {/* Resume */}

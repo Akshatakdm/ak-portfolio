@@ -14,7 +14,7 @@ function Footer() {
             </p>
 
             <a
-              href="/public/resume.pdf"
+              href="/resume.pdf"
               target="_blank"
               rel="noreferrer"
               className="mt-6 inline-flex border-b border-[#171a17] pb-1 text-sm font-medium transition-opacity hover:opacity-50"

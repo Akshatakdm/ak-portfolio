@@ -10,7 +10,7 @@ function SideProjects() {
       <div className="mx-auto max-w-6xl px-6 py-20 md:px-10 md:py-24">
 
         {/* Section Heading */}
-        <p className="mb-12 text-xs font-semibold uppercase tracking-[0.2em] text-[#687267] dark:text-[#a8aea5]">
+        <p className="mb-4 text-sm font-medium uppercase tracking-[0.18em] text-[#687267] dark:text-[#a8aea5]">
           Things I Built
         </p>
 

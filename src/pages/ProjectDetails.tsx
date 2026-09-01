@@ -33,7 +33,7 @@ function ProjectDetails() {
     }
 
     return (
-        <section className="mx-auto max-w-6xl px-6 pb-24 pt-12 md:px-10 md:pb-40 md:pt-20">
+        <section className="mx-auto max-w-6xl px-6 pb-24 pt-12 md:px-10 md:pb-24 md:pt-20">
             {/* Back */}
             <Link
                 to="/"

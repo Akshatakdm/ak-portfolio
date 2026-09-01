@@ -35,7 +35,7 @@ function Footer() {
             </a>
 
             <a
-              href="https://linkedin.com/in/akshata-kadam-68b313"
+              href="https://www.linkedin.com/in/akshata-kadam-68bba3138/"
               target="_blank"
               rel="noreferrer"
               className="transition-opacity hover:opacity-50"
